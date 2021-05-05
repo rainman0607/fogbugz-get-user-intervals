@@ -5,8 +5,7 @@ api = dict(
         "X-Requested-With": ""
     },
     endpoint="",
-    token="",
-    ix=999,
+    token=""
 )
 etc = dict(
     workHours=38,
